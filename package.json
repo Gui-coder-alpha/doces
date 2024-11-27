@@ -1,0 +1,22 @@
+{
+  "name": "doces-api",
+  "version": "1.0.0",
+  "description": "A API é sobre sobremesas ou doces, especialmente do Brasil, mas pode conter de outros países.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gui-coder-alpha/doces.git"
+  },
+  "keywords": [
+    "Doces"
+  ],
+  "author": "Guilherme Silva Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gui-coder-alpha/doces/issues"
+  },
+  "homepage": "https://github.com/Gui-coder-alpha/doces#readme"
+}
