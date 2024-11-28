@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Gui-coder-alpha/doces/issues"
   },
-  "homepage": "https://github.com/Gui-coder-alpha/doces#readme"
+  "homepage": "https://github.com/Gui-coder-alpha/doces#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
